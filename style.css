@@ -272,6 +272,7 @@ li {
 
 .project__list {
   padding-top: 40px;
+  padding: 5px;
 }
 
 .project__description {
