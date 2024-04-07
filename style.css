@@ -255,7 +255,6 @@ li {
   opacity: 1;
 }
 
-
 .project:hover .project__description {
   opacity: 1;
   transform: translateY(-50%);
@@ -284,7 +283,7 @@ li {
   margin: 16px 0;
 }
 
-.project__description--link {
+.project__description--links {
   font-size: 20px;
   margin-right: 16px;
   text-decoration: none;
@@ -294,7 +293,6 @@ li {
 .project__description--sub-title,
 .project__description--para,
 .project__description--links {
-
   text-align: left;
   color: white;
 }
