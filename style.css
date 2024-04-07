@@ -215,7 +215,8 @@ li {
 /*PROJECTS*/
 
 .project {
-  margin-bottom: 135px;
+  margin-bottom: 155px;
+  padding: 5px;
 }
 
 .project:last-child {
