@@ -365,7 +365,7 @@ nav {
 
 .project__list {
   padding-top: 40px;
-  padding: 5px;
+  padding: 8px;
 }
 
 .project__description {
@@ -415,6 +415,7 @@ footer {
 
 .footer__social--list {
   width: 100%;
+  max-width: 500px;
   display: flex;
   justify-content: space-around;
   padding: 38px;
@@ -435,8 +436,9 @@ footer {
   padding: 8% 0;
 }
 
+
 .footer__logo--img {
-  width: 100px;
+  width: 150px;
   height: auto;
 }
 
